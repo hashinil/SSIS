@@ -17,3 +17,8 @@
   >  - Add OLE DB Source Task
   >  - Add OLE DB Destination
   >  - Add Data Viewer
+
+4. Data transformation
+>- Explicit convertion
+>- Data conversion
+>- Derived Column
