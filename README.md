@@ -26,7 +26,13 @@
 >- Multi-cast
 >- Conditional Split
 >- Sampling - Row sampling/ Precentage sampling
+>- Sort
+>- Union All
 
 5. Error handling
 >- Ignore faliure
->- redirect now - derived column 
+>- redirect now - derived column
+
+6. Adding another data sources
+>- Excel
+>- Text File
