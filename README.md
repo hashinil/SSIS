@@ -22,3 +22,11 @@
 >- Explicit convertion
 >- Data conversion
 >- Derived Column
+>- Aggregation
+>- Multi-cast
+>- Conditional Split
+>- Sampling - Row sampling/ Precentage sampling
+
+5. Error handling
+>- Ignore faliure
+>- redirect now - derived column 
