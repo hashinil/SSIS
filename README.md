@@ -8,7 +8,7 @@
 
 2. Exploring SSMS ans SSIS on VS
 
-3. Creating Simple Data Extraction and Load
+3. Creating Simple Data Extraction and Load [Click](#3)
 >- Create new Package/ Project
 >- Extract data from table
 >- Load restult to table
@@ -43,3 +43,9 @@
 8. Adding Control Flow Tasks
 >- Adding Variables and Row Count
 >- Script component
+
+
+### 3
+![image](https://github.com/hashinil/SSIS/assets/33922245/9bc08f79-1c83-4214-96db-039ff8e15c76)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/08acc1a1-a0f2-471e-9ed6-ab5c71f9250f)
