@@ -28,6 +28,7 @@
 >- Sampling - Row sampling/ Precentage sampling
 >- Sort
 >- Union All
+>- Merging
 
 5. Error handling
 >- Ignore faliure
@@ -36,3 +37,6 @@
 6. Adding another data sources
 >- Excel
 >- Text File
+
+7. Auditing
+>- 
