@@ -30,19 +30,19 @@
 >- 9. Union All [Output](#4_9)
 >- 10. Merging [Output](#4_10)
 
-5. Error handling
+5. Error handling [Output](#5)
 >- Ignore faliure
 >- redirect now - derived column
 
-6. Adding another data sources
+6. Adding another data sources [Output](#6)
 >- Excel
 >- Text File
 
-7. Auditing
+7. Auditing [Output](#7)
 
 8. Adding Control Flow Tasks
->- 1. Adding Variables and Row Count
->- 2. Script component
+>- 1. Adding Variables and Row Count [Output](#8_1)
+>- 2. Script component [Output](#8_2)
 
 
 ### 3
@@ -112,12 +112,36 @@
 
 
 ### 5
-[Output](#4_6)
+Implemented in Conditional Split [Output](#4_6)
+
 
 ### 6
+![image](https://github.com/hashinil/SSIS/assets/33922245/1dfef462-2c61-4e2c-b823-6fa7302246c9)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/4e293abf-4982-4e8f-9256-220d846f490d)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/905a0a41-cf84-428f-9b9e-702d47b4bdc7)
+
 
 ### 7
+![image](https://github.com/hashinil/SSIS/assets/33922245/f59ade34-8ad5-4ec3-915c-2e1b7811f267)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/4430811f-4d89-481f-8984-801a8d6eed19)
+
 
 ### 8_1
+![image](https://github.com/hashinil/SSIS/assets/33922245/b29d4719-6c27-4015-9c2b-e96cf670fb80)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/673a2d88-8deb-48df-b071-a08900201322)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/86627d71-3a92-47fd-933d-e88b30bb14d7)
+
 
 ### 8_2
+![image](https://github.com/hashinil/SSIS/assets/33922245/5374139e-80c8-40bb-b9dd-310a9b50a0d8)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/978e9f73-8543-4c3c-bf63-f27095b24a13)
+
+![image](https://github.com/hashinil/SSIS/assets/33922245/9d6e16d1-f750-427a-8b05-2cd205ab473d)
+
+
