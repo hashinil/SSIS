@@ -39,4 +39,7 @@
 >- Text File
 
 7. Auditing
->- 
+
+8. Adding Control Flow Tasks
+>- Adding Variables and Row Count
+>- Script component
